@@ -1,0 +1,10 @@
+{
+  "BankLocation": {
+    "X": 100.0,
+    "Y": 0.0,
+    "Z": 100.0
+  },
+  "RobberyTimeSeconds": 60,
+  "StolenExperienceMin": 100,
+  "StolenExperienceMax": 500
+}

@@ -1,0 +1,14 @@
+C:\Users\Ian\source\repos\bank robbery\obj\Debug\bank robbery.csproj.AssemblyReference.cache
+C:\Users\Ian\source\repos\bank robbery\obj\Debug\bank robbery.csproj.CoreCompileInputs.cache
+C:\Users\Ian\source\repos\bank robbery\bin\Debug\bank robbery.dll
+C:\Users\Ian\source\repos\bank robbery\bin\Debug\bank robbery.pdb
+C:\Users\Ian\source\repos\bank robbery\bin\Debug\Assembly-CSharp.dll
+C:\Users\Ian\source\repos\bank robbery\bin\Debug\AstarPathfindingProject.dll
+C:\Users\Ian\source\repos\bank robbery\bin\Debug\Rocket.API.dll
+C:\Users\Ian\source\repos\bank robbery\bin\Debug\Rocket.Core.dll
+C:\Users\Ian\source\repos\bank robbery\bin\Debug\Rocket.Unturned.dll
+C:\Users\Ian\source\repos\bank robbery\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Ian\source\repos\bank robbery\bin\Debug\UnityEngine.dll
+C:\Users\Ian\source\repos\bank robbery\obj\Debug\bank robbery.csproj.CopyComplete
+C:\Users\Ian\source\repos\bank robbery\obj\Debug\bank robbery.dll
+C:\Users\Ian\source\repos\bank robbery\obj\Debug\bank robbery.pdb
